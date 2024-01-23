@@ -1,0 +1,6 @@
+[submodule "simville/Tuxemon"]
+	path = simville/Tuxemon
+	url = https://github.com/Tuxemon/Tuxemon.git
+[submodule "simville/generative_agents"]
+	path = simville/generative_agents
+	url = https://github.com/joonspk-research/generative_agents.git
