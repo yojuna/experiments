@@ -9,7 +9,8 @@
 
 - movie Hackers (1995). thoughts on it; specifically the times it was ridiculous and the times it actually referenced genuine hacker subculture (eg., books it referenced, RISC-V is the future, etc)
 
-
+- A quiet revolution in robotics (youtube: [Distinguished Colloquium: Vladlen Koltun, Sept 12, 2023 ](https://www.youtube.com/watch?v=K09erFsOnxA) and [MIT Robotics – Vladlen Koltun – A Quiet Revolution in Robotics Continued ](https://www.youtube.com/watch?v=vNFTcD3QMn0))
+    - notes and thoughts; key ideas
 
 
 ### experiments
