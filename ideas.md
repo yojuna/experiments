@@ -22,3 +22,5 @@
 - Control robotic arm with mobile phone 3d pose (position and orientation) using PWA; mobile pose calculated via camera video and IMU data, sent to robotic arm as input, mapping the 3d space coordinates from the mobile and the 3d space of the robot arm
     - extension of project done as RA at IGMR, RWTH Aachen.
     - replace the webXR pose api with open source slam models (AlvaAR project for eg. or ORB-SLAM3 wasm implementation)
+
+- work on curation effort for the robotic worlds gazebo simulations and robotics datasets online visualisation
