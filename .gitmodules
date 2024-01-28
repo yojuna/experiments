@@ -4,3 +4,9 @@
 [submodule "simville/generative_agents"]
 	path = simville/generative_agents
 	url = https://github.com/joonspk-research/generative_agents.git
+[submodule "robot_dockers/ros_gazebo_dockers"]
+	path = robot_dockers/ros_gazebo_dockers
+	url = https://github.com/yojuna/ros_gazebo_dockers.git
+[submodule "robot_dockers/aws-robomaker-bookstore-world"]
+	path = robot_dockers/aws-robomaker-bookstore-world
+	url = https://github.com/aws-robotics/aws-robomaker-bookstore-world.git
