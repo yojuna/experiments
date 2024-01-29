@@ -27,7 +27,9 @@ Notes on ever expanding list of articles and projects that I want to work on and
     - Her
     - Halt and Catch Fire
 
-- Demystify/explore common popular and useful ROS and robotics libraries (eg Nav2, ros_control, etc) 
+- Demystify/explore common popular and useful ROS and robotics libraries (eg Nav2, ros_control, etc)
+- Morpheus-1: ai for stabilizing lucid dreaming. model takes in fmri and eeg input, but how does it really work? write about halo, the headband used to induce the brain states, and what kind of cranial stimulation it proposes.
+    - refs: [x: prophetic AI post about morpheus-1](https://twitter.com/PropheticAI/status/1750534355242418300), play around with [gh: implementation from Agora AI lab](https://github.com/kyegomez/MORPHEUS-1)
 
 ### experiments
 
