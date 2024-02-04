@@ -10,3 +10,6 @@
 [submodule "robot_dockers/aws-robomaker-bookstore-world"]
 	path = robot_dockers/aws-robomaker-bookstore-world
 	url = https://github.com/aws-robotics/aws-robomaker-bookstore-world.git
+[submodule "web_history_chat/firefox-better-history-ng"]
+	path = web_history_chat/firefox-better-history-ng
+	url = https://github.com/Christoph-Wagner/firefox-better-history-ng.git
